@@ -57,7 +57,7 @@ body {
     border-bottom-left-radius: 100px;
     border-top-right-radius: 100px;
     border-top-left-radius: 10px;
-    border: 2px solid rgb(255, 253, 147);
+    border: 1px solid black;
     box-shadow: 0 0 5px rgb(255, 253, 128), 0 0 25px rgb(236, 255, 151), 0 0 50px rgb(239, 255, 147);
 
 }
@@ -564,6 +564,7 @@ body {
     justify-content: center;
     text-align: center;
     text-transform: uppercase;
+    height: 50%;
 
 }
 
