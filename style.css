@@ -5,9 +5,7 @@
 }
 
 body {
-    /* margin: 0; */
     background: linear-gradient(to bottom, #e3ff7e, #ffffff 669px);
-    /* height: 100vh; */
 }
 
 .nav-bar {
@@ -20,7 +18,6 @@ body {
 }
 
 #nav-right {
-    /* background-color: red; */
     width: 75%;
     font-weight: bolder;
     font-size: 20px;
@@ -44,7 +41,6 @@ body {
     text-transform: uppercase;
     font-size: 18px;
     margin: 0 30px;
-    /* font-weight: bold; */
     color: black;
 }
 
@@ -87,7 +83,6 @@ body {
 
 /* profile heading 1 */
 .profile h5 {
-    /* background-color: red; */
     width: 25%;
     word-spacing: 7px;
     letter-spacing: 5px;
@@ -120,8 +115,6 @@ body {
 }
 
 .profile p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* background-color: red; */
     width: 40%;
     word-spacing: 5px;
     padding-left: 169px;
@@ -134,7 +127,6 @@ body {
 /* education start  */
 .education {
     margin-top: 150px;
-    /* background-color:red; */
     padding: 20px;
     border-radius: 8px;
 
@@ -148,11 +140,10 @@ body {
     letter-spacing: 1px;
     user-select: none;
     color: #000000;
-    /* display: flex; */
+    text-shadow: 20px 20px 20px black;
 }
 
 #high-school {
-    /* background-color: red; */
     width: 20%;
     height: 300px;
     margin-left: 5%;
@@ -168,7 +159,6 @@ body {
     font-size: 20px;
 
 }
-
 
 #high-school ul li {
     font-size: 20px;
@@ -189,7 +179,6 @@ body {
 }
 
 #inter-school {
-    /* background-color: red; */
     width: 20%;
     height: 300px;
     margin-left: 15%;
@@ -226,7 +215,6 @@ body {
 
 
 #btech-school {
-    /* background-color: red; */
     width: 20%;
     height: 300px;
     margin-left: 15%;
@@ -285,8 +273,8 @@ body {
     letter-spacing: 1px;
     user-select: none;
     color: #000000;
+    text-shadow: 20px 20px 20px black;
 }
-
 
 #img-one {
     width: 500px;
@@ -331,10 +319,6 @@ body {
     border-top-right-radius: 150px;
     border-bottom-left-radius: 150px;
     margin-left: 100px;
-    /* position: fixed; */
-
-
-
 }
 
 .certificate-two {
@@ -342,19 +326,15 @@ body {
 }
 
 #content-div {
-    /* background-color: yellow; */
     width: 100%;
     float: right;
-    /* background-color: rebeccapurple; */
     margin-top: 450px;
     margin-left: 100px;
 
 }
 
-
 #img-div {
     width: 100%;
-    /* background-color: red; */
 }
 
 #content-div h2 {
@@ -390,11 +370,8 @@ body {
 
 .skills {
     margin-top: 150px;
-    /* background-color:red; */
     padding: 20px;
     border-radius: 8px;
-
-
 }
 
 .skills h1 {
@@ -404,7 +381,6 @@ body {
     letter-spacing: 1px;
     user-select: none;
     color: #000000;
-    /* display: flex; */
 }
 
 #skill-front {
@@ -419,7 +395,6 @@ body {
     letter-spacing: 1px;
     user-select: none;
     color: grey;
-    /* display: flex; */
 }
 
 
@@ -429,7 +404,6 @@ body {
     margin-left: 20%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 
 }
@@ -440,7 +414,6 @@ body {
     margin-left: 15%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -450,7 +423,6 @@ body {
     margin-left: 15%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -458,8 +430,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #html h1 {
@@ -472,8 +442,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #css h1 {
@@ -525,7 +493,6 @@ body {
     margin-left: 8%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 
 }
@@ -536,7 +503,6 @@ body {
     margin-left: 7%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -546,7 +512,6 @@ body {
     margin-left: 7%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -556,7 +521,6 @@ body {
     margin-left: 7%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -567,7 +531,6 @@ body {
     margin-left: 7%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -575,8 +538,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #python h1 {
@@ -589,8 +550,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #django h1 {
@@ -619,8 +578,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #java h1 {
@@ -634,8 +591,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #mysql h1 {
@@ -644,7 +599,6 @@ body {
     color: grey;
     text-transform: uppercase;
 }
-
 
 /* other skill  */
 #skill-other {
@@ -657,7 +611,6 @@ body {
     margin-left: 35%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 
 }
@@ -668,7 +621,6 @@ body {
     margin-left: 5%;
     margin-top: 5%;
     box-shadow: 0 0 5px rgb(114, 111, 111);
-    /* border-radius: 5%; */
     border-bottom-right-radius: 50px;
 }
 
@@ -691,8 +643,6 @@ body {
     width: 150px;
     justify-content: center;
     text-align: center;
-
-
 }
 
 #linux h1 {
@@ -706,7 +656,6 @@ body {
 
 .contact {
     padding: 20px;
-    /* border-radius: 8px; */
     width: 100%;
     height: 700px;
     margin-top: 150px;
@@ -719,7 +668,7 @@ body {
     letter-spacing: 1px;
     user-select: none;
     color: #000000;
-    /* display: flex; */
+    text-shadow: 20px 20px 20px black;
 }
 
 .contact img {
@@ -730,11 +679,9 @@ body {
     border-top-right-radius: 150px;
     border-bottom-left-radius: 150px;
     margin-right: 200px;
-    /* border-top-left-radius: 100px; */
 }
 
 #contact-send {
-    /* background-color: red; */
     width: 50%;
     margin-top: 100px;
     margin-left: 110px;
@@ -754,8 +701,6 @@ body {
     padding-left: 20px;
     padding-bottom: 10px;
     font-size: 20px;
-    /* background-color: transparent; */
-
 }
 
 #contact-send textarea {
